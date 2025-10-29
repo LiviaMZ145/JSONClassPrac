@@ -1,0 +1,15 @@
+products:
+{
+  id: 4,
+  name: "Pear",
+  price: 2.00,
+  image:
+    "https://cdn-endpoint-website.azureedge.net/uploads/PhotoModel/15196/image/zpr1.original.jpg?t=1493243143",
+},
+{
+  id: 5,
+  name: "Strawberry",
+  price: 1.50,
+  image:
+    "https://th.bing.com/th/id/R.3ca3a696a62b8aaed8dc1ff2cefd30a5?rik=lfVRKqZtDbW6GA&pid=ImgRaw&r=0",
+},
